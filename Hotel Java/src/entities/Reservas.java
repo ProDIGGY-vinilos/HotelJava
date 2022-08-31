@@ -61,10 +61,10 @@ public class Reservas {
 	public void setFecha_checkoutreal(ZonedDateTime fecha_checkoutreal) {
 		this.fecha_checkoutreal = fecha_checkoutreal;
 	}
-	public string getEstado() {
+	public String getEstado() {
 		return estado;
 	}
-	public void setEstado(string estado) {
+	public void setEstado(String estado) {
 		this.estado = estado;
 	}
 	
